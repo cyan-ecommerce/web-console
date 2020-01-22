@@ -8,5 +8,8 @@
             "email": "sschepis@gmail.com"
         }
     ],
-    "require": {}
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/nickola/web-console" }
+      ],
+    "require-all": true
 }
