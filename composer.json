@@ -1,0 +1,12 @@
+{
+    "name": "cyan-ecommerce/web-console",
+    "description": "A composer wrapper around nickola/web-console",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sebastian Schepis",
+            "email": "sschepis@gmail.com"
+        }
+    ],
+    "require": {}
+}
